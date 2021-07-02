@@ -1,1 +1,3 @@
-# gimcrack_python
+# 一些小玩意
+
+自娱自乐罢

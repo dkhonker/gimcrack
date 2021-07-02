@@ -1,3 +1,3 @@
-# 一些小玩意
+# Some gimcracks
 
-自娱自乐罢
+Just for fun!
